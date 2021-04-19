@@ -1,0 +1,194 @@
+.sad-girl{
+	background-image: url(../image/header1.jpg);
+	height: 900px;
+	width: 1280px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.text-image1{
+	position: absolute;
+	margin-top:270.52px;
+	margin-left: 119.97px;
+	width: 1017.44px;
+	height:144.83px;
+}
+
+.text-image{
+	font-size: 100px;
+	text-align: center;
+	font-weight: 100;
+	color:white;
+	font-family: Lato;
+}
+
+.text-lt{
+	width: 118px;
+	height: 37px;
+	margin-left:67px;
+	margin-top:51px;
+	position: absolute;
+}
+
+span{
+	font-size: 28px;
+	color:white;
+	font-weight: bold;
+	/*font-family: dancing Script;*/
+}
+
+.text-rt{
+position: absolute;
+width:332px;
+height: 16px;
+margin-top: 70px;
+margin-left: 805px; 
+}
+ 
+ul{
+	display:flex;
+	justify-content: space-between;
+}
+
+li{
+	color:white;
+	font-size: 12px;
+	font-weight: medium;
+	letter-spacing: 2.4px;
+	font-family: Poppins;	
+}
+
+.middle{
+	display: flex;
+}
+
+.M_L_1{
+	width: 468px;
+	height: 186px;
+	margin-top:90px;
+	margin-left:86px;
+}
+
+.title1{
+	font-size: 50px;
+	font-family: Lato;
+	font-weight: lighter;
+	/*padding-left: 86px;
+	padding-top: 90px;
+	padding-right: 86px;*/
+}
+
+.M_L_2{
+	width: 457px;
+	height: 128px;
+	margin-top:24px;
+	margin-left: 86px;
+}
+
+.middle-l{
+	width: 640px;
+	height: 601.44px;
+}
+
+.wrapper{
+	/*padding: 24px 97px 173.44px 86px;*/
+	font-size: 16px;
+	font-family: Poppins;
+	opacity: 50%;
+}
+
+.middle-b{
+	width: 307px;
+	height: 72px;
+	background-color: #325DFF;
+	border-radius: 36px;
+	margin:0px 251px 101.44px 82px;
+}
+
+.wrapper1{
+	font-size: 14px;
+	color: white;
+	font-family: lato;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: center;
+	padding-top: 29px;
+}
+
+.image-mr{
+	width: 640px;
+	height: 601.44px;
+}
+
+.Bottom{
+	width: 1171px;
+	height: 965px;
+	margin:0px 54px 119px 55px;
+}
+
+.bottom_f{
+	display: inline-flex;
+	flex-wrap: wrap;
+	grid-gap: 29px;
+}
+
+.title_b{
+	font: normal normal 300 35px/47px Lato;
+	text-align: center;
+	padding-top: 77px;
+}
+
+.wrapper_b{
+    font: normal normal normal 16px/25px Poppins;
+	margin: 9px 200px 62px 200px;
+	text-align: center;
+	letter-spacing: 0.16px;
+	opacity:0.65;
+	}
+
+.b1{
+	width: 371px;
+	height: 374px;
+	border: 0.5px solid #CECECE;
+}
+
+.b1_1{
+	width: 251px;
+	height: 263px;
+	margin: 67px 60px 44px 60px;
+}
+
+.circle{
+	width: 88px;
+	height: 88px;
+	border-radius: 44px;
+	background-color:  #325DFF;
+	margin: auto;
+	display: grid;
+	justify-content: center;
+
+	
+
+	
+}
+.icon{
+	align-self: center;
+	color:#FFFFFF;
+
+}
+h4{
+	font: normal normal normal 18px/24px Lato;
+	letter-spacing: 0.45px;
+	opacity: 0.8;
+	text-align: center;
+	padding-top: 27px;
+
+}
+.last{
+	text-align: center;
+    font: normal normal 300 16px/25px Poppins;
+	letter-spacing: 0.16px;
+	opacity: 0.65;
+	padding-top: 9px;
+}
